@@ -1,6 +1,7 @@
 \# 📊 Hotel Booking Performance Dashboard (Power BI)
 
-
+## Dashboard Preview
+![Dashboard](dashboard.png)
 
 \## 📊 Project Overview
 
