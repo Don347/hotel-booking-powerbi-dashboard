@@ -1,9 +1,9 @@
-\# 📊 Hotel Booking Performance Dashboard (Power BI)
+# 📊 Hotel Booking Performance Dashboard (Power BI)
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
 
-\## 📊 Project Overview
+## 📊 Project Overview
 
 
 
@@ -15,125 +15,125 @@ The goal is to provide business insights into revenue, booking trends, customer 
 
 
 
-\---
+---
 
 
 
-\## 🛠 Tools Used
+## 🛠 Tools Used
 
 
 
-\* Power BI
+* Power BI
 
-\* Power Query
+* Power Query
 
-\* DAX
+* DAX
 
 
 
-\---
+---
 
 
 
-\## 📈 Key KPIs
+## 📈 Key KPIs
 
 
 
-\* Total Revenue: $270.83K
+* Total Revenue: $270.83K
 
-\* Average Nights Stayed: 7.86
+* Average Nights Stayed: 7.86
 
-\* Cancellation Rate: 24%
+* Cancellation Rate: 24%
 
-\* Average Rating: 2.93
+* Average Rating: 2.93
 
 
 
-\---
+---
 
 
 
-\## 📊 Dashboard Features
+## 📊 Dashboard Features
 
 
 
-\* Revenue by Hotel
+* Revenue by Hotel
 
-\* Booking Status Breakdown by City
+* Booking Status Breakdown by City
 
-\* Monthly Booking Trends
+* Monthly Booking Trends
 
-\* Booking Source Distribution
+* Booking Source Distribution
 
-\* Rating by Room Type
+* Rating by Room Type
 
-\* Interactive Filters (City, Room Type, Booking Source)
+* Interactive Filters (City, Room Type, Booking Source)
 
 
 
-\---
+---
 
 
 
-\## 🔍 Key Insights
+## 🔍 Key Insights
 
 
 
-\* Revenue is concentrated in a few top-performing hotels.
+* Revenue is concentrated in a few top-performing hotels.
 
-\* Cancellation rate (24%) is relatively high and may affect profitability.
+* Cancellation rate (24%) is relatively high and may affect profitability.
 
-\* OTA and Website channels dominate bookings.
+* OTA and Website channels dominate bookings.
 
-\* Booking patterns show fluctuations across months, suggesting seasonality.
+* Booking patterns show fluctuations across months, suggesting seasonality.
 
-\* Lower ratings in some room types may impact repeat bookings.
+* Lower ratings in some room types may impact repeat bookings.
 
 
 
-\---
+---
 
 
 
-\## 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 
 
-!\[Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
 
 
 
-\---
+---
 
 
 
-\## 📂 Files Included
+## 📂 Files Included
 
 
 
-\* Power BI dashboard file (.pbix)
+* Power BI dashboard file (.pbix)
 
-\* Dataset (.csv)
+* Dataset (.csv)
 
-\* Dashboard screenshot
+* Dashboard screenshot
 
 
 
-\---
+---
 
 
 
-\## 🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 
 
-\* Data Modeling
+* Data Modeling
 
-\* KPI Development (DAX)
+* KPI Development (DAX)
 
-\* Interactive Dashboard Design
+* Interactive Dashboard Design
 
-\* Business Insight Generation
+* Business Insight Generation
 
 
 
